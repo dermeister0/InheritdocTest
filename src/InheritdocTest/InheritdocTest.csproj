@@ -47,6 +47,8 @@
     <Compile Include="IPausable.cs" />
     <Compile Include="IStoppable.cs" />
     <Compile Include="ITest.cs" />
+    <Compile Include="IValueProvider.cs" />
+    <Compile Include="NumberProvider.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SimpleLogger.cs" />
