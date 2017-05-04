@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace Generic40.Domain
 {
@@ -18,5 +19,11 @@ namespace Generic40.Domain
         /// </summary>
         /// <returns>The list of values.</returns>
         IEnumerable<int> GetValues();
+
+        /// <summary>
+        /// Processes data.
+        /// </summary>
+        /// <returns>Async task.</returns>
+        Task DoWorkAsync();
     }
 }

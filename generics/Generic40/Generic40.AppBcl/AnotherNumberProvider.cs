@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Generic40.App
+namespace Generic40.AppBcl
 {
     /// <summary>
     /// Number provider.
@@ -12,7 +12,7 @@ namespace Generic40.App
         /// <inheritdoc />
         public Task DoWorkAsync()
         {
-            return new TaskCompletionSource<object>().Task;
+            return TaskEx.FromResult(0);
         }
 
         /// <inheritdoc />
