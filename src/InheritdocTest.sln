@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritdocTest", "InheritdocTest.csproj", "{CBD1FC4B-BDE6-48C0-95DE-4129D5C7BFE6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritdocTest", "InheritdocTest\InheritdocTest.csproj", "{CBD1FC4B-BDE6-48C0-95DE-4129D5C7BFE6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{2C9F4FAA-31C2-4932-87B0-FF7DF24C0C53}"
 EndProject

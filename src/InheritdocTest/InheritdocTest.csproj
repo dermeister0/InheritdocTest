@@ -52,7 +52,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Domain\Domain.csproj">
+    <ProjectReference Include="..\Domain\Domain.csproj">
       <Project>{2c9f4faa-31c2-4932-87b0-ff7df24c0c53}</Project>
       <Name>Domain</Name>
     </ProjectReference>
