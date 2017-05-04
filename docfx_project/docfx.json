@@ -3,9 +3,20 @@
     {
       "src": [
         {
-          "cwd": "../",
+          "src": "../",
           "files": [
             "src/**.csproj"
+          ],
+          "exclude": [
+            "**/obj/**",
+            "**/bin/**",
+            "_site/**"
+          ]
+        },
+        {
+          "src": "../",
+          "files": [
+            "generics/**.csproj"
           ],
           "exclude": [
             "**/obj/**",
