@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnotherNumberProvider.cs" />
     <Compile Include="BaseProcess.cs" />
     <Compile Include="InheritedProcess.cs" />
     <Compile Include="IPausable.cs" />
