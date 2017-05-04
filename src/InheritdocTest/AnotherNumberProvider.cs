@@ -5,7 +5,7 @@ namespace InheritdocTest
     /// <summary>
     /// Number provider.
     /// </summary>
-    public class AnotherNumberProvider : IValueProvider
+    public class AnotherNumberProvider : IAnotherValueProvider
     {
         /// <inheritdoc />
         public int GetValue()
