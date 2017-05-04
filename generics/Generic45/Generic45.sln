@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic45.App", "Generic45.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic45.Domain", "Generic45.Domain\Generic45.Domain.csproj", "{CA0A1CB9-3FCC-4D9B-B856-2E88B1C38907}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic45.AnotherApp", "Generic45.AnotherApp\Generic45.AnotherApp.csproj", "{F224BBB2-51EE-4600-AD34-5CB3AE893649}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CA0A1CB9-3FCC-4D9B-B856-2E88B1C38907}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA0A1CB9-3FCC-4D9B-B856-2E88B1C38907}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA0A1CB9-3FCC-4D9B-B856-2E88B1C38907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F224BBB2-51EE-4600-AD34-5CB3AE893649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F224BBB2-51EE-4600-AD34-5CB3AE893649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F224BBB2-51EE-4600-AD34-5CB3AE893649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F224BBB2-51EE-4600-AD34-5CB3AE893649}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
