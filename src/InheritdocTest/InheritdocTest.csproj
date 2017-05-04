@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="BaseProcess.cs" />
     <Compile Include="InheritedProcess.cs" />
+    <Compile Include="IPausable.cs" />
     <Compile Include="IStoppable.cs" />
     <Compile Include="ITest.cs" />
     <Compile Include="Program.cs" />
